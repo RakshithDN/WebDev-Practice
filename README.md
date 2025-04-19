@@ -9,18 +9,12 @@ This repository contains my personal frontend practice work using **HTML**, **CS
 ```bash
 WebDev-Practice/
 ├── Flexbox-Practice/
-│   ├── align-items.html
-│   ├── justify-content.html
+│   ├── index.html
+│   ├── app.css
 │   └── README.md
 ├── Grid-Practice/
-│   ├── grid-template.html
+│   ├── index.html
 │   └── README.md
-├── Form-Designs/
-│   ├── signup-form.html
-│   └── login-form.html
-├── Animations/
-│   ├── hover-effects.html
-│   └── transitions.html
 ```
 
 ---
